@@ -24,7 +24,7 @@
 - **Exploring:** AI/ML, Data Analytics, Power BI
 
 ### 📌 Projects & Practice
-- [NSCC-Tasks](https://github.com/ankitkr2087/NSCC-Tasks)
+- [Personal Introduction Website](https://github.com/ankitkr2087/personal-introduction-website)
 - GitHub Skills exercises and coding practice
 
 ### 📫 Connect With Me
