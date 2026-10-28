@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**ankitkr2087/ankitkr2087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, I'm Ankit Kumar 👋
 
-Here are some ideas to get you started:
+🎓 First-year Engineering Student at SRM Institute of Science and Technology (SRMIST).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm building my programming fundamentals and exploring the world of software development.
+
+### 🚀 Currently Learning
+- C Programming
+- C++ and Data Structures & Algorithms (DSA)
+- Git and GitHub
+
+### 🌱 Interests
+- Artificial Intelligence & Machine Learning
+- Data Analytics and Power BI
+- Open-source collaboration
+
+### 🤝 Community
+- Member of GitHub Community SRM (GCSRM) — Creative Domain.
+
+### 🛠️ Technologies & Tools
+- **Languages:** C, C++
+- **Tools:** Git, GitHub, VS Code
+- **Exploring:** AI/ML, Data Analytics, Power BI
+
+### 📌 Projects & Practice
+- [NSCC-Tasks](https://github.com/ankitkr2087/NSCC-Tasks)
+- GitHub Skills exercises and coding practice
+
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/ankit-kumar-2087-reg)
+
+---
+
+⭐ *Learning consistently, building projects, and improving one step at a time.*
